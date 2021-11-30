@@ -44,6 +44,7 @@ function getProductHTML(productId) {
 
     // FIND and UPDATE the product's name
     productHTML.find(".product-name").text(product.name);
+    productHTML.find(".product-description").text(product.description);
     productHTML.find(".product-price").text('$'+ product.price);
  
     // FIND and UPDATE the product's image properties
