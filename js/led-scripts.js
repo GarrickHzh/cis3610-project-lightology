@@ -23,7 +23,25 @@ const PRODUCTS = {
         description: "RGB headlight bulbs with bluetooth connection on your phone.",
         price: 50,
         image: "img/csp-rgb.png"  
-    }  
+    }, product_5: {
+        id: "product_5",
+        name: "F-150 LED Projector Headlights",
+        description: "2015-2017 F-150 LED Tube Sequential Switchback Matte Black Projector Headlights.",
+        price: 550,
+        image: "img/headlight-1.png"  
+    }, product_6: {
+        id: "product_6",
+        name: "F-150 LED Projector Headlights",
+        description: "2018-2020 Ford F-150 LED Tube DRL Switchback Chrome Clear Projector Headlights.",
+        price: 550,
+        image: "img/headlight-2.png"  
+    }, product_7: {
+        id: "product_7",
+        name: "RAM LED Projector Headlights",
+        description: "2009-2018 Ram 1500/2500/3500 LED DRL Matte Black Dual Projector Headlights Set.",
+        price: 350,
+        image: "img/headlight-3.png"  
+    }   
 };
 
 
